@@ -1,8 +1,3 @@
-Hi all, 
-
-Please use the below docker code for the Dockerfile in the Milestone05 if the docker code provided in the milestone 05 document is not working.
-
- 
 
 FROM maven:3.8.3-openjdk-17 AS build
 
